@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Prueba de API!!!!
+          Prueba de API!
         </a>
       </header>
     </div>
